@@ -1,6 +1,6 @@
 const translations = {
   en: {
-    title: "Coffee Survey",
+    title: "Coffee Survey VERSION TEST",
     q1: "How would you rate the coffee you just tasted?",
     q2: "Which brewing method do you usually prefer? (Max 3)",
     q3: "Would you be willing to pay more for Fair Trade coffee?",
